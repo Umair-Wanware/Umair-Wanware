@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Umair-Wanware/Umair-Wanware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Umair Wanware 👋
 
-Here are some ideas to get you started:
+### Aspiring Embedded Software Engineer
+#### Firmware Development | Microcontrollers | Real-Time Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building software that connects hardware, firmware,
+and real-world applications.
+
+[GitHub](https://github.com/Umair-Wanware)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student passionate about
+embedded software, firmware development, and
+microcontroller-based systems.
+
+- 🔧 Exploring embedded C/C++ and firmware architecture.
+- ⚙️ Working with STM32 and microcontroller projects.
+- 🔄 Learning real-time operating system concepts.
+- 🐧 Interested in Embedded Linux and low-level software.
+- 🚀 Building projects to strengthen my engineering skills.
+
+My goal is to become an Embedded Software Engineer
+and contribute to reliable, efficient firmware.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Embedded Development
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-5A9FD4?style=for-the-badge)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+
+### Development Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔋 Battery Management System
+Exploring battery management and embedded system design.
+
+[View Repository](https://github.com/Umair-Wanware/Battery-Management-System)
+
+### ⚡ BMS Control Centre
+A companion project related to battery management systems.
+
+[View Repository](https://github.com/Umair-Wanware/BMS_Control_Centre)
+
+### 🌀 Motor Control Unit
+Exploring software for motor control applications.
+
+[View Repository](https://github.com/Umair-Wanware/Motor-Control-Unit)
+
+### 🌦️ Weather Station
+An embedded project focused on weather monitoring.
+
+[View Repository](https://github.com/Umair-Wanware/Wheather-Station)
+
+### 🔌 Bootloader
+Exploring bootloader design and firmware fundamentals.
+
+[View Repository](https://github.com/Umair-Wanware/Bootloader)
+
+---
+
+## 📚 Currently Learning
+
+- Embedded C and modern C++
+- STM32 firmware development
+- RTOS concepts and task scheduling
+- Peripheral communication protocols
+- Embedded Linux fundamentals
+- Firmware architecture and debugging
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Umair-Wanware&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Wanware&layout=compact&theme=transparent)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+GitHub: [@Umair-Wanware](https://github.com/Umair-Wanware)
+
+<div align="center">
+
+### Build. Debug. Learn. Repeat. ⚙️
+
+</div>
